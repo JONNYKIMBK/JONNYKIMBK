@@ -35,7 +35,7 @@
     <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="20" height="20">
     <b> Sequelize</b></li>
     <li>
-    <img src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png" width="20" height="20">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20" height="20">
     <b> GIT</b></li>
     <li>
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="20" height="20">
