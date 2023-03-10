@@ -10,17 +10,39 @@
     Mis principales tecnologías adquiridas en el bootcamp de Henry son:
 </p>
 <ul>
-    <li><b>Javascript</b></li>
-    <li><b>Typescript</b></li>
-    <li><b>React.js</b></li>
-    <li><b>Redux</b></li>
-    <li><b>Node.js</b></li>
-    <li><b>Espress.js</b></li>
-    <li><b>PostgreSQL</b></li>
-    <li><b>Sequelize</b></li>
-    <li><b>GIT</b></li>
-    <li><b>HTML</b></li>
-    <li><b>CSS</b></li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20" height="20">
+    <b> Javascript</b> </li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="20" height="20">
+    <b> Typescript</b> </li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="20" height="20">
+    <b> React.js</b></li>
+    <li>
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="20" height="20">
+    <b> Redux</b></li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="20" height="20">
+    <b> Node.js</b></li>
+    <li>
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="20" height="20">
+    <b> Espress.js</b></li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="20" height="20">
+    <b> PostgreSQL</b></li>
+    <li>
+    <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="20" height="20">
+    <b> Sequelize</b></li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png" width="20" height="20">
+    <b> GIT</b></li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="20" height="20">
+    <b> HTML</b></li>
+    <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="20" height="20">
+    <b> CSS</b></li>
 </ul>
 <p>
     También por proyectos trabajados tengo nociones de <b>Material UI</b>, <b>Firebase</b> y plataformas de pago como <b>Mercado Pago</b>.
@@ -36,7 +58,8 @@ Estoy abierto a escuchar propuestas, asi que espero tu mensaje por los siguiente
 Email: <a href= "mailto: jonnykimbk@gmail.com">jonnykimbk@gmail.com</a>
 
 <p>
-Linkedin: <a href= "https://www.linkedin.com/in/jonathan-kim-bk/" target="_blank" rel="noopener noreferrer">Jonathan Kim</a>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> <a href= "https://www.linkedin.com/in/jonathan-kim-bk/" target="_blank" rel="noopener noreferrer">Jonathan Kim</a>
+
 </p>
 
 <!--
