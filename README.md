@@ -1,7 +1,7 @@
 # Hola, mi nombre es Jonathan Kim
 
 <p>
-    Soy un estudiante de desarrollo web <b>Full Stack</b>, antes de mi formación en tecnología, estudié Ciencias Económicas y trabajé en el e-commerce de una empresa líder en productos eléctricos e iluminación, donde adquirí habilidades valiosas en atención al cliente y en el mundo empresarial. Ahora, estoy entusiasmado por combinar mis habilidades en programación con mi experiencia previa para desarrollarme en puestos de nivel junior en Frontend o Backend.
+    Soy un desarrollador web <b>Full Stack</b>, antes de mi formación en tecnología, estudié Ciencias Económicas y trabajé en el e-commerce de una empresa líder en productos eléctricos e iluminación, donde adquirí habilidades valiosas en atención al cliente y en el mundo empresarial. Ahora, estoy entusiasmado por combinar mis habilidades en programación con mi experiencia previa para desarrollarme en puestos de nivel junior en Frontend o Backend.
 </p>
 
 ## ¿Que tecnologías uso?
